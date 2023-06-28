@@ -1,0 +1,1 @@
+Here's a scenario of creating a repository, making commits, creating branches, and merging with and without conflicts will be demonstrated.
